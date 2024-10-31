@@ -1,0 +1,15 @@
+a := 5 :
+b := 10
+c := 15
+
+IF a<= 10 then
+	a := a + 2
+ENDIF
+
+IF b >= 15 then
+	b:=b-2
+ENDIF
+
+IF c>10 then
+	c := c - 2
+ENDIF

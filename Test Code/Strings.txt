@@ -1,0 +1,3 @@
+x := "test string"
+y := "invalid characters ^&%$''"
+z := "$% ^'' & )..?"
